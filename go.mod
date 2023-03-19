@@ -1,4 +1,4 @@
-module reddistlock
+module github.com/sizeofint/reddistlock
 
 go 1.20
 
